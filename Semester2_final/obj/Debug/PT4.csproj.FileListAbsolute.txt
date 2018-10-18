@@ -1,0 +1,14 @@
+C:\Users\Todd-laptop\Desktop\Ranken\AWD\Semester2\cs_spring2018\Roguelite\PT4\bin\Debug\PT4.exe.config
+C:\Users\Todd-laptop\Desktop\Ranken\AWD\Semester2\cs_spring2018\Roguelite\PT4\bin\Debug\PT4.exe
+C:\Users\Todd-laptop\Desktop\Ranken\AWD\Semester2\cs_spring2018\Roguelite\PT4\bin\Debug\PT4.pdb
+C:\Users\Todd-laptop\Desktop\Ranken\AWD\Semester2\cs_spring2018\Roguelite\PT4\obj\Debug\PT4.ScreenCombat.resources
+C:\Users\Todd-laptop\Desktop\Ranken\AWD\Semester2\cs_spring2018\Roguelite\PT4\obj\Debug\PT4.ScreenEnd.resources
+C:\Users\Todd-laptop\Desktop\Ranken\AWD\Semester2\cs_spring2018\Roguelite\PT4\obj\Debug\PT4.MainForm.resources
+C:\Users\Todd-laptop\Desktop\Ranken\AWD\Semester2\cs_spring2018\Roguelite\PT4\obj\Debug\PT4.Properties.Resources.resources
+C:\Users\Todd-laptop\Desktop\Ranken\AWD\Semester2\cs_spring2018\Roguelite\PT4\obj\Debug\PT4.ScreenInventory.resources
+C:\Users\Todd-laptop\Desktop\Ranken\AWD\Semester2\cs_spring2018\Roguelite\PT4\obj\Debug\PT4.ScreenStart.resources
+C:\Users\Todd-laptop\Desktop\Ranken\AWD\Semester2\cs_spring2018\Roguelite\PT4\obj\Debug\PT4.csproj.GenerateResource.Cache
+C:\Users\Todd-laptop\Desktop\Ranken\AWD\Semester2\cs_spring2018\Roguelite\PT4\obj\Debug\PT4.csproj.CoreCompileInputs.cache
+C:\Users\Todd-laptop\Desktop\Ranken\AWD\Semester2\cs_spring2018\Roguelite\PT4\obj\Debug\PT4.exe
+C:\Users\Todd-laptop\Desktop\Ranken\AWD\Semester2\cs_spring2018\Roguelite\PT4\obj\Debug\PT4.pdb
+C:\Users\Todd-laptop\Desktop\Ranken\AWD\Semester2\cs_spring2018\Roguelite\PT4\obj\Debug\PT4.csprojAssemblyReference.cache

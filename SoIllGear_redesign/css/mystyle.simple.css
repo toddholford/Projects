@@ -1,0 +1,233 @@
+
+
+body {
+    background: #EFEFEF;
+}
+
+.slides {
+    background: #EFEFEF;
+}
+
+.about {
+    background: #EFEFEF;
+    padding-bottom: 7em;
+}
+
+.deals {
+    background: #EFEFEF;
+    padding-bottom: 7em;
+}
+
+.services {
+    background: #EFEFEF;
+    padding-bottom: 7em;
+}
+
+.gallery {
+    background: #EFEFEF;
+    padding-bottom: 7em;
+}
+
+.services .container {
+    background: #EFEFEF;
+}
+
+.bg-light {
+    background-color: #EFEFEF !important;
+}
+
+.bg-dark {
+    background-color: #EFEFEF !important;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #FF383F;
+    text-transform: uppercase;
+}
+
+.navbar-light .navbar-nav .nav-link:focus {
+    color: #000000;
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+    color: rgb(0, 0, 0);
+}
+
+.navbar-light .navbar-nav .nav-link:active {
+    color: #000000;
+}
+
+.nav-link {
+    font-weight: bold;
+}
+
+.w3ls-heading h2, .w3ls-heading h3 {
+    color: #A9A9A9;
+    font-size: 3em;
+    padding-top: 2%;
+    margin: 0;
+    text-align: center;
+    text-transform: uppercase;    
+    letter-spacing: 5px;
+}
+
+.deals .w3ls-heading h2, .w3ls-heading h3 {
+    color: #A9A9A9;
+    font-size: 3em;
+    padding-top: 2%;
+    margin: 0;
+    text-align: center;
+    text-transform: uppercase;    
+    letter-spacing: 5px;
+}
+
+.gallery .w3ls-heading h2, .w3ls-heading h3 {
+    color: #A9A9A9;
+    font-size: 3em;
+    padding-top: 2%;
+    margin: 0;
+    text-align: center;
+    text-transform: uppercase;    
+    letter-spacing: 5px;
+}
+
+.w3ls-about-info p {
+    color: #000000;
+    font-size: 1em;
+    margin: 0 auto;
+    line-height: 1.8em;
+    width: 64%;
+    text-align: center;
+}
+
+.dropdown-item:active {
+    background-color: #cf3838;
+}
+
+.printspirations {
+    width: 20%;
+    height: auto;
+    padding-bottom: 2%;
+}
+
+hr {
+    width: 20%;
+    border: solid;
+    border-width: 2px;
+    color: #e00404;
+}
+
+.lead {
+    font-size: 1em;
+    color: rgb(156, 156, 156);
+}
+
+.banner1 .container .row .left img {
+    width: 50%;
+    height: auto;
+}
+
+.banner1 .container .row .right img {
+    width: 90%;
+    height: auto;
+}
+
+.banner2 .navbar-light .navbar-nav .nav-link {
+    text-transform: lowercase;
+}
+
+.deals .container .row img {
+    width: 100%;
+    height: auto;
+}
+
+.services .container .row img {
+    width: 100%;
+    height: auto;
+}
+
+.navigation .container .navbar-brand img {
+    height: 40px;
+    width: auto;
+}
+
+.gallery .container .row .card {
+    width: 100%;
+    height: auto;
+}
+
+.navigation .container .dropdown-image img {
+    display: none;
+}
+
+/* STICK NAVBAR CSS ----------------------------*/
+ /* Style the navbar */
+
+ #navbar {
+    z-index: 99999;
+  }
+  
+  /* Navbar links */
+  #navbar a {
+    float: left;
+    display: block;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+  }
+  
+  /* Page content */
+  .content {
+    padding: 16px;
+  }
+  
+  /* The sticky class is added to the navbar with JS when it reaches its scroll position */
+  .sticky {
+    position: fixed;
+    top: 0;
+    width: 100%
+  }
+  
+  /* Add some top padding to the page content to prevent sudden quick movement (as the navigation bar gets a new position at the top of the page (position:fixed and top:0) */
+  .sticky + .content {
+    padding-top: 60px;
+  } 
+
+
+
+
+
+/* MEDIA QUERY - mobile ------------------------------------*/
+@media only screen and (max-width: 600px) {
+
+    .banner1 .logos {
+        display: none;
+    }
+
+    .navigation .container .dropdown {
+        display: none;
+    }
+
+    .navigation .container .dropdown-image img {
+        display: inline-block;
+        width: 35%;
+        height: auto;
+    }
+
+    .deals .row .col-sm-4 {
+        padding-bottom: 1em;
+    }
+
+    .services .row .col-sm-3 {
+        padding-bottom: 1em;
+    }
+
+    .gallery .row .col-sm-3 {
+        padding-bottom: 1em;
+    }
+
+}
+
+
+
+
